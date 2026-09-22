@@ -1,0 +1,251 @@
+ls -l
+echo
+echo $HOME
+man
+40
+man man
+pwd
+vagrant halt
+whoami
+vagrant halt
+x
+exit
+ls -l
+pwd
+hostnamectl status
+vagrant halt
+man grep
+ls -lh /boot/
+sudo
+cat /etc/os-release
+bc
+ipconfig
+ifconfig
+ifconfig wlp2s0
+whoami
+env
+echo $USER
+VARIABLE = hola
+echo $VARIABLE
+pwd
+man
+man man
+man help
+man --help
+q
+man
+-n
+sudo apt -y install tree
+tree
+cat etc/group
+cat
+pwd
+whoami
+apropos group grep "(8)" |  apropos group "(8)" |  pdw
+mkdir -p ola{1}
+tree -p ola
+/proc/cpuinfo
+sudo /proc/cpuinfo
+sudo proc/cpuinfo
+sudo proc/ cpuinfo
+sudo /proc/ cpuinfo
+vagrant halt
+pwd
+vagrant halt
+sudo vagrant halt
+sudo /vagrant halt
+pwd
+ls -l
+rm ola{1}
+rmdir ola{1}
+ls -l
+tree
+cd repogit
+pwd
+cd Preparacion_Entorno_estudiante
+cd UTN-FRA_SO_onBording
+pwd
+cat Almacenamiento
+cd Almacenamiento
+cat almacenamiento
+pwd
+cat
+cd
+pwd
+hostnamectl --help
+p
+28    hostnamectl status
+hostnamectl status
+hostnamectl hostname
+localectl --help
+passwd --help 
+man passwd
+sudo mandb
+man -k network
+apropos networking
+ls
+pwd
+tree
+cat Belgrano_WINDALO.docx.pdf
+pwd
+whoami
+vagrant status
+man pwd
+ls -l
+cat README
+pwd
+ls -l
+ls -la
+mkdir clase1
+ls -l
+cd clase1
+pwd
+cd
+cd clase1
+pwd
+cat > archivo1.txt
+ls -l
+cat archivo1.txt 
+cat > archivo2.txt
+rm archivo2.txt
+ls -l
+cat > archivo2.txt
+ls -l
+cat archivo2.txt 
+ls -la
+cat .
+cat ..
+cat *.txt
+cat archivo3.txt << archivo1.txt archivo2.txt 
+ls -l
+cat archivo1.txt archivo2.txt >> archivo3.txt
+ls -l
+cat archivo3.txt 
+grep -c 6
+grep Linea6 archivo2.txt 
+grep -c Linea archivo2.txt 
+pwd
+cd 
+pwd
+ssh-keygen -t ed25519
+pwd
+l
+cd clase1/
+sl 
+ls --l
+ls -vagrant halt
+pwd
+ls -l
+cd repogit/cd repogit/
+pwd
+cd repogit
+ls -l
+cd ..
+pwd
+ssh-keygen -t ed25519
+ls -la
+cd .ssh
+pwd
+ls -l
+cat id_ed25519.pub 
+ls -l
+cd 
+pwd
+ls -l
+cd repogit/
+ls -l
+git clone git@github.com:castrojuan/TP1_AySO.git
+pwd
+ls -l
+cd TP1_AySO/
+ls -l
+cat README.md 
+cat /etc/os-release 
+man grep
+grep HOME_URL /etc/os-release 
+grep -i HOME_URL /etc/os-release 
+grep -i home_url /etc/os-release  
+grep HOME_URL /etc/os-release  
+grep home_url /etc/os-release
+grep -i home_url etc/os-release
+grep -i home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)" > datos_usuario.txt
+ls
+git add .
+git config --global user.email "cjuanmartin780@gmail.com"
+git config --global user.name "castrojuan"
+git commit -m "ADD: agregado 1er 
+ejercicio sobre datos_usuarios.txt" 
+git status
+git push
+pwd
+ls -l
+pwd
+cd datos_usuario.txt
+cat datos_usuario.txt 
+pwd
+cpuinfo
+Command 'cpuinfo' not found, did you mean:
+Try: apt install <deb name>
+cat /proc/cpuinfo
+
+pwd
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+ls -l
+cat datos_usuario.txt 
+git status
+git commit -m "ADD: agregado 1er ejercicio sobre datos de usuario.txt"
+git commit -m "“feat: Añadiendo información de CPU”
+git status
+git push
+git add
+
+pwd
+grep "model name" /proc/cpuinfo | head -n1 >> 
+datos_usuarios.txt grep "model name" /proc/cpuinfo | head -n1 >> 
+datos_usuarios.txtpwd
+whoami
+pwd
+usuarios.txt grep "model name" /proc/cpuinfo | head -n1 >>
+-bash: syntax error near unexpected token `newline'
+vagrant@VMPruebas:~/repogit/TP1_AySO$ datos_usuarios.txt grep "model name" /proc/cpuinfo | head -n1 >>
+-bash: syntax error near unexpected token `newline'
+vagrant@VMPruebas:~/repogit/TP1_AySO$ datos_usuarios.txt
+cat datos_usuario.txt 
+exit
+
+vagrant halt
+xd
+cd
+pwd
+ls -l
+cd repogit/
+ls -l
+cd TP1_AySO/
+ls -l
+cat datos_usuario.txt 
+git add
+git add .
+git config --global user.email "cjuanmartin780@gmail.com"
+git config --global user.name 
+"Tu-Usuario"git config --global user.name 
+"Tu-Usuario"git config --global user.name "castrojuan"
+git config --global user.name "castrojuan"
+git commit -m “feat: Añadiendo información de CPU”
+git commit -m "ADD: añaniedo informacion de CPU"
+git status
+git push
+cat <<EOF >> README.md
+Alumno: Juan Martin Castro
+Division: 313 Turno Noche
+EOF
+
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+history -a
+cp ~/.bash_history ./Historial_comandos_Juan_Martin_Castro.txt cp ~/.bash_history ./Historial_comandos_Juan_Martin_Castro.txt git add Historial_comandos_Juan_Martin_Castro.txt
+git status
+git add Historial_comandos_Juan_Martin_Castro.txt
+pwd
